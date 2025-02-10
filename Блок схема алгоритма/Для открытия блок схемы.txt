@@ -1,0 +1,1 @@
+Для открытия блок схемы необходимо перейти по ссылке (https://products.aspose.app/diagram/ru/flowchart), создать новую блок сему, зайти во вкладку file и выбрать import
